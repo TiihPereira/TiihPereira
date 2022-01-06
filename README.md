@@ -1,0 +1,4 @@
+- Hi 👋 my name is Thiago Pereira.
+- 👀 I’m interested in Full Development.
+- 🌱 I’m currently learning Front End (HTML5, CSS3 and JavaScript), Back End (C## and Java) and SQL.
+- 📫 I’m currently working as a Support Assistant in Foxconn Brasil.
