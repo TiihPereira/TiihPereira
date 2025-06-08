@@ -5,8 +5,8 @@
 ### - Hi 👋 my name is Thiago Pereira.
 
 - 👀 I’m interested in Full Development.
-- 📚 I’m currently learning .NET and SQL.
-- 💻 I’m currently working as a Support Assistant in Foxconn Brasil.
+- 📚 I’m currently learning .NET and PL/SQL Oracle.
+- 💻 I’m currently working as a Systems Analyst Jr in Foxconn Brasil.
 
 <div>
     <a href="https://www.linkedin.com/in/tiihpereira/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
